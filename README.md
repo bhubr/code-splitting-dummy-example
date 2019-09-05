@@ -1,6 +1,6 @@
 # Code Splitting Dummy Example
 
-Just wanted to try code splitting in a bare React App.
+Just wanted to try code splitting in a bare React App, after [reading about it](https://create-react-app.dev/docs/code-splitting).
 
 Here's the history of what I did (stripped-down build logs, find the whole logs in `build-logs`).
 
