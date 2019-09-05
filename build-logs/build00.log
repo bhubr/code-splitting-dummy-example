@@ -1,0 +1,29 @@
+yarn run v1.17.3
+$ react-scripts build
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  38.54 KB  build/static/js/2.401e4f4f.chunk.js
+  783 B     build/static/js/runtime~main.f5ce18de.js
+  619 B     build/static/js/main.f2a77337.chunk.js
+  517 B     build/static/css/main.2cce8147.chunk.css
+
+The project was built assuming it is hosted at the server root.
+You can control this with the homepage field in your package.json.
+For example, add this to build it for GitHub Pages:
+
+  "homepage" : "http://myname.github.io/myapp",
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  yarn global add serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://bit.ly/CRA-deploy
+
+Done in 4.02s.
