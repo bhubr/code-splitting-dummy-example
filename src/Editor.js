@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import brace from 'brace';
+// import brace from 'brace';
 import AceEditor from 'react-ace';
 
-import 'brace/mode/java';
-import 'brace/theme/github';
+// import 'brace/mode/java';
+// import 'brace/theme/github';
 
 const initialText = `// Hello world
 console.log('Hello World');
